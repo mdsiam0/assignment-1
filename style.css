@@ -28,7 +28,7 @@ body {
     margin: 0 auto;
     
 }
-nav h3 {
+.logo {
     font-size: 32px;
     font-weight: 700;
 }
