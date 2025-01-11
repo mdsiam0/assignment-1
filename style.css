@@ -233,6 +233,95 @@ nav h3 {
 }
 /* quotes-section-end */
 
+/* opinion-section-start */
+
+.opinion-section {
+    width: 1280px;
+    height: 482px;
+    
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.opinion-section h3 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.opinion-container {
+    height: 410px;
+    width: 1280px;
+    background-color: #ffffff;
+    border-radius: 16px;
+}
+.box-container {
+    display: block;
+    padding: 50px 21px;
+    
+}
+.opinion-container-header {
+    border: 1px solid rgb(14, 14, 14, 15%);
+    display: flex;
+    height: 72px;
+    width: 1190px;
+    background-color: #C6E4D6;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.question-option1 {
+    border: 1px solid rgb(14, 14, 14, 15%);
+    display: flex;
+    height: 72px;
+    width: 1190px;
+    padding: 0 24px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.question-option2 {
+    border: 1px solid rgb(14, 14, 14, 15%);
+    display: flex;
+    height: 72px;
+    width: 1190px;
+    padding: 0 24px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.question-option3 {
+    border: 1px solid rgb(14, 14, 14, 15%);
+    display: flex;
+    height: 72px;
+    width: 1190px;
+    padding: 0 24px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#question1 {
+    padding: 10px 20px;
+    background-color: #C6E4D6;
+    border-radius: 4px;
+    
+    
+}
+#question2 {
+    padding: 10px 20px;
+    background-color: #C6E4D6;
+    border-radius: 4px;
+    
+}
+#question3 {
+    padding: 10px 20px;
+    background-color: #C6E4D6;
+    border-radius: 4px;
+    
+}
+/* opinion-section-end */
+
 /* news-section-start */
 
 
