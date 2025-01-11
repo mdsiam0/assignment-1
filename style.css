@@ -419,3 +419,28 @@ nav h3 {
 
 
 /* newsletter-section-end  */
+
+/* footer-section-start */
+
+footer {
+    width: 100vw;
+    height: 226px;
+    background-color: #ffffff;
+    justify-items: center;
+    align-content: center;
+}
+footer h3 {
+    font-size: 32px;
+    font-weight: 700;
+}
+.line {
+    width: 1122px;
+    border: 1px solid rgb(14, 14, 14, 20%);
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+footer a {
+    margin-left: 22px;
+}
+
+/* footer-section-end */
