@@ -285,3 +285,72 @@ nav h3 {
     background-color: #006A50;
     color: #ffffff;
 }
+/* news-section-end */
+
+
+ /* donate-section-start*/
+
+ .donate-section {
+    width: 1280px;
+    height: 464px;
+    margin: 80px auto 0 auto;
+    
+ }
+ 
+ .donate-section h3 {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 24px;
+    
+ }
+ .donate-section p {
+    text-align: center;
+    line-height: 24px;
+    margin-bottom: 32px;
+    opacity: 80%;
+ }
+
+ .amount-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 32px;
+ }
+
+ 
+ .donate-section .amount {
+    font-size: 40px;
+    font-weight: 700;
+    padding: 40px;
+    border: 1px solid rgb(14, 14, 14, 15%);
+    border-radius: 16px;
+    background-color: #ffffff;
+    color: rgb(14, 14, 14, 80%);
+    
+ }
+ 
+ .donate-section .background-change {
+    background-color: #C6E4D6;
+ }
+
+#donate-input {
+    display: block;
+    margin: 0 auto;
+    height: 64px;
+    width: 1032px;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    color: rgb(14, 14, 14, 30%);
+    border: 1px solid rgb(14, 14, 14, 15%);
+    margin-bottom: 32px;
+}
+.donate-section button {
+    display: block;
+    color: #ffffff;
+    border: 1px solid rgb(14, 14, 14, 10%);
+    margin: 0 auto;
+    background-color: #006A50;
+    padding: 17px 34px;
+    border-radius: 8px;
+}
