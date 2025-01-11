@@ -341,10 +341,12 @@ nav h3 {
  
  .donate-section .background-change {
     background-color: #C6E4D6;
+  
  }
 
  .amount:hover {
     background-color: #006A50;
+    color: #ffffff;
  }
 
 #donate-input {
@@ -421,10 +423,8 @@ nav h3 {
     background-color: #006A50;
     border: none;
     color: #ffffff;
-    width: 20%;
     position: absolute;
-    top: 0;
-    right: 0;
+    width: 20%;
     height: 100%;
     border-radius: 0 8px 8px 0;
     font-size: 18px;
