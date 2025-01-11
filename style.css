@@ -93,7 +93,7 @@ nav h3 {
     margin-bottom: 32px;
 }
 
-.pillars-card-container {
+.card-container {
     display: flex;
     gap: 24px;
 }
@@ -106,13 +106,13 @@ nav h3 {
     width: 278px;
     
 }
-.pillars-card h4 {
+.card-caption {
     font-size: 20px;
     font-weight: 700;
     margin: 24px 0;
     opacity: 80%;
 }
-.pillars-card p {
+.card-discribtion {
     font-size: 16px;
     font-weight: 400;
     opacity: 70%;
@@ -127,3 +127,60 @@ nav h3 {
     margin: 0 auto;
     max-width: 1280px;
     max-height: 765px;
+}
+.vision-section p {
+    color:rgba(14, 14, 14, 70%);
+    margin-bottom: 32px;
+}
+
+.vision-card1 {
+    padding: 32px;
+    width: 378px;
+    height: 290px;
+    background-color: rgba(84, 144, 245, 20%);
+    border-radius: 16px;
+    
+}
+.vision-card2 {
+    padding: 32px;
+    width: 378px;
+    height: 290px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    
+}
+.vision-card3 {
+    padding: 32px;
+    width: 378px;
+    height: 290px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    
+}
+
+.vision-card1 button {
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #5490F5;
+
+}
+.vision-card2 button {
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #09A15C;
+    margin-top: 25px;
+    
+}
+.vision-card3 button {
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #FFC239;
+    
+}
+/* vision-section-end */
